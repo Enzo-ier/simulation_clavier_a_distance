@@ -1,4 +1,4 @@
-# simulation_clavier_-_distance
+# simulation_clavier_a_distance
 
 disposition et organisation des fichiers :
 
